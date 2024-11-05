@@ -1,0 +1,22 @@
+{
+  "name": "@winggo12/npm-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winggo12/npm-trial.git"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winggo12/npm-trial/issues"
+  },
+  "homepage": "https://github.com/winggo12/npm-trial#readme"
+  "publishConfig": {
+    "@winggo12:registry": "https://npm.pkg.github.com"
+  }
+}
