@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/winggo12/npm-trial/issues"
   },
-  "homepage": "https://github.com/winggo12/npm-trial#readme"
+  "homepage": "https://github.com/winggo12/npm-trial#readme",
   "publishConfig": {
     "@winggo12:registry": "https://npm.pkg.github.com"
   }
